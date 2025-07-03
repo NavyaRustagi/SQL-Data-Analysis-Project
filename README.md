@@ -1,1 +1,2 @@
 # SQL-Data-Analysis-Project
+This project involved performing basic data analysis using SQL on a dataset composed of three Excel files: Orders, Customers, and Books. The primary objective was to simulate a real-world bookstore database and practice querying and analyzing structured data. After importing the Excel files into MySQL Server, I used SQL queries to extract insights, identify trends, and perform calculations related to orders, inventory, and customer activity.
